@@ -1,0 +1,6 @@
+{
+  "name": "Portal Pengaduan Sertifikasi Guru Belum Valid",
+  "description": "Sistem layanan terpadu bagi Guru, Operator Sekolah, dan Admin Dinas Pendidikan untuk melaporkan, memverifikasi, memantau, dan menyelesaikan permasalahan validasi data sertifikasi pendidik secara transparan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
